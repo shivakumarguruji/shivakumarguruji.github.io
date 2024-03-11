@@ -35,6 +35,19 @@ plugins:
 include:
   - _pages
 
+navigation:
+  - title: Home
+    url: /
+  - title: About Me
+    url: /about-me/
+  - title: History of Astrology
+    url: /history-of-astrology/
+  - title: History of Hosahalli-Mattur
+    url: /history-of-hosahalli-mattur/
+  - title: Contact
+    url: /contact/
+  - title: Gallery
+    url: /gallery/
 
 
 # Exclude from processing.
