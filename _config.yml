@@ -32,12 +32,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
-  - about-me.md
-  - history-of-astrology.md
-  - history-of-hosahalli-mattur.md
-  - contact.md
-  - gallery.md
+minima:
+  header_pages:
+    - _pages/about-me.md
+    - _pages/history-of-astrology.md
+    - _pages/history-of-hosahalli-mattur.md
+    - _pages/contact.md
+    - _pages/gallery.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
