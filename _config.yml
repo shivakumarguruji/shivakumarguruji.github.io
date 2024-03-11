@@ -32,13 +32,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-minima:
-  header_pages:
-    - _pages/about-me.md
-    - _pages/history-of-astrology.md
-    - _pages/history-of-hosahalli-mattur.md
-    - _pages/contact.md
-    - _pages/gallery.md
+include:
+  - _pages
+
 
 
 # Exclude from processing.
